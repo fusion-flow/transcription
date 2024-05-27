@@ -1,4 +1,4 @@
-# Whisper API in Docker Container
+# Whisper API for transcription
 
 The code in the repository creates a docker container for the transcription of an audio file using Whisper's base model.
 This API is built using FastAPI inside a Docker container.
